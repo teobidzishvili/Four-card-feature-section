@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop version](images/Screen Shot 17.36.44.png)
-![Mobile version](images/Screen Shot 17.38.24.png)
+![Desktop version](images/ScreenShot-17.36.44.png)
+![Mobile version](images/ScreenShot-17.38.24.png)
 
 
 ### Links
