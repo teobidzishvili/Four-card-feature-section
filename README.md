@@ -11,10 +11,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -25,7 +23,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![Desktop version](images/ScreenShot-17.36.44.png)
 ![Mobile version](images/ScreenShot-17.38.24.png)
@@ -33,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site URL](https://)
+- Live Site URL: [Four car feature section](https://teobidzishvili.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -41,25 +39,18 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Bootstrap
 - Mobile-first workflow
 
 ### What I learned
 
-
-
-### Continued development
-
-
+- Bootstrap basics
 
 ### Useful resources
 
-
+- [getbootstrap](https://getbootstrap.com/)
 
 ## Author
 
-
-
-## Acknowledgments
+- Frontend Mentor
 
